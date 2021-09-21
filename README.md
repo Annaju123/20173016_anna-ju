@@ -12,4 +12,4 @@
 <img width="300" height="600" src="./png/naver.png"></img>
 
 
-<img width="300" height="600" src="./png/naver.png"></img>
+<img width="300" height="600" src="./png/call.png"></img>
