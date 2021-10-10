@@ -27,3 +27,14 @@
 
 
 <img width="300" height="600" src="./png/dog2.png"></img>
+
+## 6주차
+  -앱 실행이 안돼서 일단 소스 코드만 올리겠습니다. 실행되는데로 바로 수정하겠습니다.
+  -mainactivity
+<img width="300" height="600" src="./png/20173016_061.jpg"></img>
+<img width="300" height="600" src="./png/20173016_062.jpg"></img>
+
+  -activitymain
+<img width="300" height="600" src="./png/20173016_063.jpg"></img>
+<img width="300" height="600" src="./png/20173016_064.jpg"></img>
+ 
