@@ -53,3 +53,12 @@
 
 <img width="450" height="600" src="./png/20173016_064.JPG"></img>
  
+## 11주차
+  -mainactivity
+  <img width="400" height="600" src="./png/ma1.JPG"></img>
+  <img width="400" height="600" src="./png/ma2.JPG"></img>
+  <img width="400" height="600" src="./png/ma3.JPG"></img>
+  
+  -activitymain
+  <img width="400" height="600" src="./png/ac.JPG"></img>
+  <img width="400" height="600" src="./png/ac2.JPG"></img>
